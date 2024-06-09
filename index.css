@@ -214,8 +214,7 @@ header.shadow{
 .products-container .box .content a{
     padding: 0.1rem;
     color: var(--text-color);
-    border: 2px solid var(--bg-color);
-    /* border-radius: 2px solid var(--main-color); */
+    border: 2px solid var(--main-color);
     border-radius: 4px;
     text-transform: uppercase;
 }
